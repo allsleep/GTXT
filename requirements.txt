@@ -1,0 +1,10 @@
+googletrans==4.0.0-rc1
+transformers==2.1.1
+torch
+numpy
+tqdm
+sklearn
+keras
+tb-nightly
+future
+thulac
